@@ -1,6 +1,6 @@
 # stat5010 Final Project
 Final project in STAT 5010: Statistical Methods and Applications II. 
-- Focuses on baseball statistics for hitters/batters, pitchers, and fielding
+- Focuses on baseball statistical analysis for hitters/batters, pitchers, and fielding
 
 ### Research Questions
 
